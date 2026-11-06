@@ -1,4 +1,4 @@
-# Hi, I’m Yuki(ゆうき).
+# Hi, I’m Yuki/ゆうき.
 
 I mainly work on Japanese localization for software and open-source projects. In my free time, I enjoy developing iOS apps and web applications.
 
