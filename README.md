@@ -8,6 +8,7 @@ I mainly work on Japanese localization for software and open-source projects. In
 
 * Japanese Localization / 日本語ローカライズ
 * iOS Development / iOSアプリ開発
+* iOS Tweak Development / iOSのTweak開発
 * Web Development / Webアプリ開発
 * AI & LLMs / AI・大規模言語モデル
 * Open Source / オープンソース
