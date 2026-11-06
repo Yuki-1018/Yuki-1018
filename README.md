@@ -20,3 +20,9 @@ I mainly work on Japanese localization for software and open-source projects. In
 * HTML & CSS
 * Git & GitHub
 * Linux
+
+### Links / リンク
+- **Website:** [yuki1018.com](https://yuki1018.com)
+- **X:** [@YOUR_X_USERNAME](https://x.com/yukidazeeee)
+- **LINE OpenChat:** [Join the community](https://line.me/ti/g2/O3sqL9Ez4d0YpkOqquOYHMc_90SHq-fTTb0FJg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+- **Email:** [admin@yuki1018.com](mailto:admin@yuki1018.com)
