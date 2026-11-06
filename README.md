@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I’m Yuki.
 
-<!--
-**Yuki-1018/Yuki-1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mainly work on Japanese localization for software and open-source projects. In my free time, I enjoy developing iOS apps and web applications.
 
-Here are some ideas to get you started:
+普段はソフトウェアやオープンソースプロジェクトの日本語ローカライズを中心に活動しています。趣味でiOSアプリやWebアプリの開発もしています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests / 興味のある分野
+
+* Japanese Localization / 日本語ローカライズ
+* iOS Development / iOSアプリ開発
+* Web Development / Webアプリ開発
+* AI & LLMs / AI・大規模言語モデル
+* Open Source / オープンソース
+
+Tools & Technologies / 使用技術
+
+* Swift
+* Python
+* JavaScript
+* HTML & CSS
+* Git & GitHub
+* Linux
